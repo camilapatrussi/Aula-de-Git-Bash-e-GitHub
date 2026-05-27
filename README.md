@@ -27,7 +27,7 @@ Serviços:
 ---------------------------------------------------------------------------------------------
 ## Objetivo do Trabalho 🖥️
 - Aprender a mexer e conhecer o GitHub 
-###Tecnologias Utilizadas 💻
+### Tecnologias Utilizadas 💻
 - Git
 - GitHub
 - Git Bash
