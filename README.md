@@ -1,14 +1,14 @@
 # Aula-de-Git-Bash-e-GitHub
 Apresentação 27/05/25 💻 
 -----------------------------------------------------------------------------------------------
-###Membros do trabalho 👥:
+### Membros do trabalho 👥:
 - Camila Patrussi
 - Lucas Rafael
 - Bianka Vieira
 - Raissa Helena
 - Samuel Henrique
 -----------------------------------------------------------------------------------------------
-  ###Conteúdo📚  
+  ### Conteúdo📚  
  ### Git-Sistema de controle de versões distribuído
    Comandos iniciais:
    - Init
@@ -25,10 +25,10 @@ Serviços:
 - BitBucket
 - Azure Repository
 ---------------------------------------------------------------------------------------------
-##Objetivo do Trabalho 🖥️
-Aprender a mexer e conhecer o GitHub 
+## Objetivo do Trabalho 🖥️
+- Aprender a mexer e conhecer o GitHub 
 ###Tecnologias Utilizadas 💻
-Git
-GitHub
-Git Bash
+- Git
+- GitHub
+- Git Bash
 Markdown
