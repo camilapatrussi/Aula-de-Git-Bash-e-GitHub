@@ -1,4 +1,4 @@
-# Aula-de-Git-Bash-e-GitHub
+# Primeiro Repertório
 Apresentação 27/05/25 💻 
 -----------------------------------------------------------------------------------------------
 ### Membros do trabalho 👥:
